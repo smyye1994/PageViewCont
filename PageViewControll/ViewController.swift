@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
+    private let a = 10
     private let scrollView: UIScrollView = {
         let scrollView = UIScrollView()
         return scrollView
